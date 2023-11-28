@@ -1,0 +1,3 @@
+/Users/christinegao/Desktop/DI 9/cmake-build-debug/CMakeFiles/DI_9.dir
+/Users/christinegao/Desktop/DI 9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/christinegao/Desktop/DI 9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
